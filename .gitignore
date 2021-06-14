@@ -33,7 +33,7 @@
 /.DS_Store
 
 # Ignore lib folders
-/lib
+# /lib
 
 .idea/
 /cmake-build-debug
